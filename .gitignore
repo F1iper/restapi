@@ -6,6 +6,7 @@ target/
 src/main/resources/application.properties
 src/main/resources/data.sql
 src/main/resources/schema.sql
+src/main/java/pl/fliper/restapi/config/SecurityConfig.java
 
 ### STS ###
 .apt_generated
